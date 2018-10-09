@@ -1,6 +1,8 @@
 # background_demo
 
-A new Flutter project.
+A demo project for showing the problem with background isolate plugins.
+
+https://github.com/flutter/engine/pull/6396
 
 ## Getting Started
 
